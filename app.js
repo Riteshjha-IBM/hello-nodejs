@@ -1,2 +1,2 @@
-//This is first line code written on GitHub
+//This is first line code on GitHub
 console.log("Hello World!\n");
